@@ -1,0 +1,11 @@
+Student Name : Ahmad Qayum  And Student Marks : 56.0
+Student Name : Hamza  And Student Marks : 70.0
+Student Name : Ahmad  And Student Marks : 55.0
+Student Name : Dua  And Student Marks : 100.0
+Student Name : Ahmad  And Student Marks : 40.0
+Student Name : s  And Student Marks : 5.0
+Student Name : s  And Student Marks : 3.0
+Student Name : Ahmads  And Student Marks : 22.0
+Student Name : Pakistan  And Student Marks : 501.0
+Student Name : Ahad  And Student Marks : 4.0
+Student Name : Samir  And Student Marks : 56.0
