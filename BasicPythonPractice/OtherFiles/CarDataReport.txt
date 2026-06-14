@@ -1,0 +1,6 @@
+Car Data Analyst Report
+Most Cars: 206 | Brand: Honda
+City with the most expensive Cars: Multan (177 cars)
+Year with Highest Average Price : 2010 and the Average Price : 4793236.11
+Most Frequent Model : Cerato and the Quantity : 74
+
