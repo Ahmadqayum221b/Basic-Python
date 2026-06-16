@@ -1,0 +1,7 @@
+
+Video Games Sales Analytics
+Most Copies By Publisher : Activision
+Top Region by Games Bought : Asia
+Top Genre by Revenue : RPG
+Generated Correlation: Review Score vs Copies Sold
+Top Game By Revenue : Game_12
