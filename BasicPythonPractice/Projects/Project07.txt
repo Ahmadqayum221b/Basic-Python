@@ -1,0 +1,30 @@
+# Video Game Sales Analytics
+
+This project analyzes video game sales, reviews, and publisher performance using PostgreSQL and Python.
+
+## Technologies
+
+* PostgreSQL
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+
+## Features
+
+* Database normalization using Games, Sales, and Reviews tables
+* SQL JOIN operations across multiple datasets
+* Revenue and sales analysis
+* Regional purchasing analysis
+* Publisher performance analysis
+* Review score vs sales correlation
+* Automated report generation
+* Data visualization using Matplotlib
+
+## Key Findings
+
+* Activision sold the highest number of copies.
+* Asia purchased the highest number of games.
+* RPG generated the highest total revenue.
+* Game_12 generated the highest revenue.
+* Correlation analysis was performed between review scores and copies sold.
