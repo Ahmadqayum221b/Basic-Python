@@ -1,0 +1,7 @@
+Online Store Analytics Report
+============================
+Highest Revenue Category : Electronics
+Top Spending City : Faisalabad
+Top Customer : Customer_146
+Customers Spending Above Average : 142
+Categories Spending Above Average : 3
