@@ -1,125 +1,114 @@
-📊 Data Science Journey
+Data Science Learning Journey
+About Me
 
-Welcome to my Data Science learning journey! 🚀
+I am a Computer Science graduate with a strong interest in data analytics, machine learning, and software development. This repository documents my progress as I learn the core concepts of Data Science through hands-on projects, SQL analysis, data visualization, and statistical exploration.
 
-This repository documents my progress as I learn and build projects in Data Science, Data Analytics, SQL, Python, Machine Learning, and related technologies. My goal is to develop strong analytical skills, work with real-world datasets, and eventually build intelligent systems that solve practical problems.
+My goal is to develop practical skills that can be applied to real-world business problems and eventually progress into Machine Learning and Artificial Intelligence.
 
-🎯 Objectives
-Learn the fundamentals of Data Science.
-Master Python for data analysis and visualization.
-Gain proficiency in SQL and database management.
-Perform Exploratory Data Analysis (EDA).
-Build Machine Learning models.
-Create end-to-end data projects.
-Develop a portfolio showcasing real-world solutions.
-🛣️ Learning Roadmap
-Phase 1: Python Fundamentals ✅
-Variables and Data Types
-Loops and Conditions
-Functions
-Object-Oriented Programming
+Skills Learned So Far
+Python
+Object-Oriented Programming (OOP)
+Functions and Modules
 File Handling
+Exception Handling
+Data Processing
+Data Analysis Libraries
 NumPy
+Arrays and Matrix Operations
+Mathematical Computations
+Statistical Functions
 Pandas
-Matplotlib
-Phase 2: Data Analysis 📈
 Data Cleaning
-Data Wrangling
-Exploratory Data Analysis (EDA)
+Data Transformation
+Grouping and Aggregation
+Missing Value Handling
+Data Exploration
 Data Visualization
-Statistical Analysis
-Phase 3: SQL & Databases 🗄️
-SELECT Statements
-WHERE Clauses
-ORDER BY
-GROUP BY
-HAVING
-JOINs
-Subqueries
+Matplotlib
+Line Charts
+Bar Charts
+Pie Charts
+Histograms
+Trend Analysis
+SQL
+Database Design
+Table Relationships
+Primary Keys and Foreign Keys
+Joins
+Aggregation Functions
+Group By and Having
 Common Table Expressions (CTEs)
 Window Functions
-PostgreSQL
-Phase 4: Machine Learning 🤖
-Supervised Learning
-Unsupervised Learning
-Regression
-Classification
-Clustering
-Model Evaluation
-Feature Engineering
-Phase 5: Advanced Topics 🚀
-Deep Learning
-Natural Language Processing
-Computer Vision
-Time Series Analysis
-Big Data Tools
-📂 Projects
-1. Steam Game Analytics Dashboard
+RANK()
+ROW_NUMBER()
+DENSE_RANK()
+LAG()
+Running Totals
+Statistics
+Mean
+Median
+Mode
+Variance
+Standard Deviation
+Data Distribution
+Correlation Analysis
+Projects Completed
+E-Commerce Sales & Customer Intelligence System
 
-Skills Used:
+Designed and analyzed an e-commerce database containing:
 
-Python
-Pandas
-NumPy
-Matplotlib
+Customers
+Products
+Orders
+Order Items
+Database Features
+Relational Database Design
+Foreign Key Relationships
+Customer Purchase Tracking
+Product Revenue Tracking
+Business Questions Answered
+Revenue Analysis
+Total Revenue Generated
+Revenue by Category
+Highest Revenue Month
+Lowest Revenue Month
+Product Analysis
+Best Performing Categories
+Revenue Contribution by Category
+High Revenue Products with Low Sales Volume
+Advanced SQL Analysis
+Ranking Categories by Revenue
+Customer Intelligence Queries
+Revenue Trend Analysis
+Window Function Applications
+SQL Concepts Used
+INNER JOIN
+GROUP BY
+Aggregate Functions
+CTEs
+Window Functions
+Ranking Functions
+Current Learning Focus
 
-Description:
-Analyzed Steam game datasets to uncover trends, ratings, popularity metrics, and market insights.
+I am currently strengthening my knowledge of:
 
-2. Car Dealership Analytics System
-
-Skills Used:
-
-Python
-Pandas
+Advanced SQL Analytics
 Data Visualization
+Business Intelligence
+Exploratory Data Analysis (EDA)
+Next Learning Goals
+Machine Learning
 
-Description:
-Generated reports and insights from car dealership datasets, including:
+Planned topics include:
 
-Most common car brands
-Most expensive cities
-Average car prices by year
-Most frequent vehicle models
-🛠️ Tools & Technologies
-Python
-PostgreSQL
-Pandas
-NumPy
-Matplotlib
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forests
+Clustering Algorithms
+Model Evaluation Metrics
+Tools & Libraries
+Scikit-Learn
 Jupyter Notebook
-VS Code
-Git & GitHub
-📚 Current Progress
-Completed
-Python Fundamentals
-NumPy Basics
-Pandas Basics
-Data Visualization Basics
-PostgreSQL Fundamentals
-Currently Learning
-Advanced SQL Queries
-Data Cleaning Techniques
-Exploratory Data Analysis
-Next Goals
-Complete SQL Mastery
-Build EDA Projects
-Learn Machine Learning Fundamentals
-📈 Why This Repository Exists
-
-This repository serves as:
-
-A record of my learning progress.
-A portfolio of projects and case studies.
-A resource for tracking skills and growth over time.
-A demonstration of my commitment to becoming a Data Scientist.
-👨‍💻 About Me
-
-I am a Computer Science graduate with a background in software and game development, currently transitioning into the field of Data Science. I enjoy solving problems, analyzing data, and building projects that combine programming with real-world insights.
-
-⭐ Follow My Journey
-
-New projects, datasets, and learning milestones will be added regularly as I continue progressing toward becoming a Data Scientist.
-
-Started: June 2026 🚀
-Status: Learning, Building, Improving Every Day 📊✨
+Power BI
+Tableau
