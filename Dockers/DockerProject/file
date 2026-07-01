@@ -1,0 +1,15 @@
+create table Emp(
+	employee_id int primary key,
+	EmpName varchar(50),
+	Salary int
+);
+
+create table Dep(
+	department_id int primary key,
+	employee_id int references Emp(employee_id),
+	department_name varchar(50)
+);
+
+
+select * from Emp;
+select * from Dep;
